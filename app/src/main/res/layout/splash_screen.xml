@@ -48,7 +48,7 @@
             android:id="@+id/name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Harshit"
+            android:text="Darshan S N"
             android:textSize="20sp"
             android:textStyle="bold"
             android:textColor="#E66F6F"

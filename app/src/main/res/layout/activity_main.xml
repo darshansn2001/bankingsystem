@@ -13,7 +13,7 @@
         android:layout_height="64dp"
         android:gravity="center_horizontal"
         android:padding="10dp"
-        android:text="Banking System Application"
+        android:text="Banking System "
         android:textColor="#000"
         android:textSize="26sp"
         android:textStyle="bold"/>
@@ -29,12 +29,12 @@
         android:layout_height="58dp"
         android:layout_centerHorizontal="true"
         android:background="@drawable/rounded_button"
-        android:backgroundTint="#E66F6F"
+        android:backgroundTint="#FFC107"
         android:paddingHorizontal="15dp"
         android:paddingVertical="5dp"
         android:text="View Users"
         android:textAllCaps="false"
-        android:textColor="#fff"
+        android:textColor="#0C0C0C"
         android:textSize="18sp"
         android:textStyle="bold"></Button>
 
