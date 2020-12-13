@@ -1,2 +1,0 @@
-# bankingsystem
-basic banking application
